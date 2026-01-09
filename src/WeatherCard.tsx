@@ -6,7 +6,6 @@ import {
   CloudLightning,
   Snowflake,
   CloudDrizzle,
-  Wind,
   CloudFog,
 } from "lucide-react";
 import type { Weather } from "./api/WeatherApi";
